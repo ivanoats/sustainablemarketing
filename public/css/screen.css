@@ -1,9 +1,10 @@
 body{
   text-align: center;
-  font-size: 2em;
-  font-family: Arial, sans-serif;
+  font-size: 1.5em;
+  font-family: Futura, Arial, sans-serif;
 }
 h1{
-  margin: 10% auto;
+  margin: 5% auto;
   font-size: 64px;
+  font-family:  Zapfino, Brush Script, Arial, sans-serif;
 }
